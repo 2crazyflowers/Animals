@@ -1,0 +1,24 @@
+{
+  "name": "animals",
+  "version": "1.0.0",
+  "description": "A simple fullstack CRUD application using MongoDB.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2crazyflowers/Animals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2crazyflowers/Animals/issues"
+  },
+  "homepage": "https://github.com/2crazyflowers/Animals#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
+  }
+}
